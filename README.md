@@ -1,3 +1,4 @@
-# CursoGitHub
 Mi primer repositorio 
-Holi :)
+
+Primero proyecto en Git Hub y de Progración III 
+de Ingeniería en Sistemas
